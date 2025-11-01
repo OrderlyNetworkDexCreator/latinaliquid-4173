@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "Akira Dex",
   "VITE_SEO_SITE_DESCRIPTION": "akira",
-  "VITE_SEO_SITE_URL": "https://nexadex.org",
+  "VITE_SEO_SITE_URL": "https://nexa-app.xyz",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
