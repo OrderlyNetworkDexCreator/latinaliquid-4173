@@ -94,6 +94,12 @@
   --oui-spacing-xl: 33.75rem;
 }
 
+.oui-items-center {
+text-transform:uppercase;
+font-size:11px;
+letter-spacing:0.8px
+}
+
 .oui-scaffold-footer-powered-by {
 display:none !important;
 }
@@ -101,4 +107,5 @@ display:none !important;
 html, body {
   font-family: 'Roboto', sans-serif !important;
   font-size: 15px !important;
+text-transform:uppercase;
 }
