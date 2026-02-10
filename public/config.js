@@ -24,7 +24,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/zkiraofficial",
   "VITE_DISCORD_URL": "",
-  "VITE_TWITTER_URL": "",
+  "VITE_TWITTER_URL": "https://x.com/zkira_xyz",
   "VITE_SEO_SITE_NAME": "ZKIRA",
   "VITE_SEO_SITE_DESCRIPTION": "zkira",
   "VITE_SEO_SITE_URL": "https://app.zkira.xyz",
