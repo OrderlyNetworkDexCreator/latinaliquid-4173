@@ -1,6 +1,6 @@
 :root {
-  --oui-font-family: 'Ubuntu', sans-serif;
-  --oui-font-size-base: 15px;
+  --oui-font-family: 'Poppins', sans-serif;
+  --oui-font-size-base: 12px;
 
   /* colors */
   --oui-color-primary: 255 40 40;
@@ -95,7 +95,7 @@
 }
 
 html, body {
-  font-family: 'Ubuntu', sans-serif !important;
+  font-family: 'Poppins', sans-serif !important;
   font-size: 15px !important;
 text-transform:uppercase !important;
 }
@@ -104,7 +104,10 @@ text-transform:uppercase !important;
 .orderly-app-container *,
 .orderly-app-container *::before,
 .orderly-app-container *::after {
-  font-family: 'Ubuntu', sans-serif !important;
+text-transform:uppercase !important;
+font-weight:100 !important;
+letter-spacing:1px;
+  font-family: 'Poppins', sans-serif !important;
 }
 
 
